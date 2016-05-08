@@ -1,5 +1,7 @@
 package machineProps;
-
+/**
+ * @author S12139
+ */
 import java.io.File;
 
 public class SysConfig {
